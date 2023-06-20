@@ -1,7 +1,7 @@
 """
 Калькулятор з Radiobutton
 
-MIT License
+MIT License.
 mit.edu/~amini/LICENSE.md
 """
 
