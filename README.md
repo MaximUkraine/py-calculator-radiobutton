@@ -1,7 +1,7 @@
 # Калькулятор з Radiobutton
 ### Це самий звичайний калькулятор на Python
 
-[![N|Solid](https://i.imgur.com/PsRxAoU.png)
+![N|Solid](https://i.imgur.com/PsRxAoU.png)
 
 ## Опис
 
